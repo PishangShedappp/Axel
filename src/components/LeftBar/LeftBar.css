@@ -1,0 +1,40 @@
+.leftnav-main {
+    position: relative;
+    top: 33px;
+}
+
+.leftnav-bar {
+    background-color: #f8f9fa;
+    padding: 8px;
+    align-items: center;
+    width: 28px;
+    height: 100vh;
+}
+
+.leftnav-button-top {
+    margin-left: 12px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-right: 9px;
+    margin-left: 10px;
+}
+
+.leftnav-button-top button {
+    background-color: transparent;
+    color: #636363;
+    border: none;
+    border-radius: 25px;
+    margin-top: 3px;
+    padding: 8px;
+    transition: 0.3s;
+}
+
+.leftnav-button-top button:hover {
+    background-color: #cfcfcf;
+}
+
+.leftnav-button-top button svg {
+    display: flex;
+    justify-content: center;
+}

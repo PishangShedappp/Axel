@@ -1,0 +1,13 @@
+div.App {
+  max-width: 100vw;
+  max-height: 100vh;
+  overflow: hidden;
+  display: grid;
+}
+
+.body {
+  height: 100%;
+  width: 100%;
+  background-color: white;
+  overflow: hidden;
+}
